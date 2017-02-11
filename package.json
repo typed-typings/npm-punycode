@@ -1,6 +1,7 @@
 {
   "private": true,
   "scripts": {
+    "prepare": "typings install",
     "build": "echo building... && typings bundle -o out/punycode.d.ts",
     "lint": "echo linting... && tslint \"**/*.ts\" -e \"source/**\" -e \"source-test/**\" -e \"out/**\" -e \"node_modules/**\" -e \"typings/**\"",
     "browser-test": "echo running browser tests... && echo no browser test",
