@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "lib": ["es2015"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noEmit": true,
+    "noImplicitAny": true,
+    "outDir": "out",
+    "strictNullChecks": true,
+    "target": "es5"
+  },
+  "files": [
+    "test.ts",
+    "../typings/index.d.ts",
+    "../out/punycode.d.ts"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "rootDir": ".",
+    "outDir": "./out"
+  },
+  "files": [
+    "../custom-typings/node/index.d.ts",
+    "../typings/index.d.ts",
+    "../out/punycode.d.ts",
+    "./tests.ts"
+  ]
+}
