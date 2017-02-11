@@ -1,5 +1,7 @@
 # Typed Punycode  [![Build Status](https://travis-ci.org/types/npm-punycode.svg?branch=master)](https://travis-ci.org/types/npm-punycode)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-punycode.svg)](https://greenkeeper.io/)
+
 
 The type definition for [`punycode`](https://github.com/bestiejs/punycode.js.git)
 
