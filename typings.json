@@ -3,11 +3,10 @@
   "main": "punycode.d.ts",
   "homepage": "https://mths.be/punycode",
   "version": "2.1.0",
-  "globalDevDependencies": {},
+  "globalDevDependencies": {
+    "mocha": "registry:env/mocha#2.2.5+20160926180742"
+  },
   "devDependencies": {
     "blue-tape": "registry:npm/blue-tape#0.2.0+20160723033700"
-  },
-  "globalDependencies": {
-    "mocha": "registry:env/mocha#2.2.5+20160926180742"
   }
 }
